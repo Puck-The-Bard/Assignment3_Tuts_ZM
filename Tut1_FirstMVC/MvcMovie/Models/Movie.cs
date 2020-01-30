@@ -10,8 +10,8 @@ namespace RazorPagesMovie.Models
 
         [DataType(DataType.Date)]
         public DateTime ReleaseDate {get; set;}
-        public string gGenre {get; set;}
+        public string Genre {get; set;}
         public decimal Price {get; set;}
-        
+
     }
 }
