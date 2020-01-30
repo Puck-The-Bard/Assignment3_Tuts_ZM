@@ -10,6 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using RazorPagesMovie.Data;
 using Microsoft.EntityFrameworkCore;
+using RazorPagesMovie.Models;
 
 namespace MvcMovie
 {
