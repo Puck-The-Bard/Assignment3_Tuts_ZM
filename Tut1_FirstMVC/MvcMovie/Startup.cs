@@ -32,15 +32,18 @@ namespace MvcMovie
 
             services.AddDbContext<MvcMovieContext>(options =>
             {
-                var connectionString = Configuration.GetConnectionString("MvcMoviecontext");
+                var connectionString = Configuration.GetConnectionString("MvcMovieContext");
+
+                services.AddDbContext<MvcMovieContext>(options =>
+                    options.UseSqlite(Configuration.GetConnectionString("MvcMovieContext")));
 
                 if (Environment.IsDevelopment())
                 {
-                    options.UseSqlite(connectionString);
+                    options.UseSqlite(Configuration.GetConnectionString("MvcMovieContext"));
                 }
                 else
                 {
-                    options.UseSqlServer(connectionString);
+                    options.UseSqlServer(Configuration.GetConnectionString("MvcMovieContext"));
                 }
             });
         }
