@@ -20506,8 +20506,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\zmcgu\\Documents\\2020_ClassesWT_Sem1\\SoftwareDev\\Assignment3_Tutorials\\Tut1_FirstMVC\\MvcMovie\\Views\\Movies\\Edit.cshtml",
+      "TargetPath": "Views\\Movies\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\zmcgu\\Documents\\2020_ClassesWT_Sem1\\SoftwareDev\\Assignment3_Tutorials\\Tut1_FirstMVC\\MvcMovie\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\zmcgu\\Documents\\2020_ClassesWT_Sem1\\SoftwareDev\\Assignment3_Tutorials\\Tut1_FirstMVC\\MvcMovie\\Views\\Movies\\Create.cshtml",
+      "TargetPath": "Views\\Movies\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20533,6 +20543,21 @@
     {
       "FilePath": "c:\\Users\\zmcgu\\Documents\\2020_ClassesWT_Sem1\\SoftwareDev\\Assignment3_Tutorials\\Tut1_FirstMVC\\MvcMovie\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\zmcgu\\Documents\\2020_ClassesWT_Sem1\\SoftwareDev\\Assignment3_Tutorials\\Tut1_FirstMVC\\MvcMovie\\Views\\Movies\\Index.cshtml",
+      "TargetPath": "Views\\Movies\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\zmcgu\\Documents\\2020_ClassesWT_Sem1\\SoftwareDev\\Assignment3_Tutorials\\Tut1_FirstMVC\\MvcMovie\\Views\\Movies\\Delete.cshtml",
+      "TargetPath": "Views\\Movies\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\zmcgu\\Documents\\2020_ClassesWT_Sem1\\SoftwareDev\\Assignment3_Tutorials\\Tut1_FirstMVC\\MvcMovie\\Views\\Movies\\Details.cshtml",
+      "TargetPath": "Views\\Movies\\Details.cshtml",
       "FileKind": "mvc"
     }
   ],

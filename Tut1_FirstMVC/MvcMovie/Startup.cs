@@ -8,9 +8,9 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using RazorPagesMovie.Data;
 using Microsoft.EntityFrameworkCore;
-using RazorPagesMovie.Models;
+using MvcMovie.Data;
+
 
 namespace MvcMovie
 {
@@ -28,7 +28,7 @@ namespace MvcMovie
         {
             services.AddRazorPages();
 
-            services.AddDbContext<RazorPagesMovieContext>(options =>
+            services.AddDbContext<MvcMovieContext>(options =>
                 options.UseSqlite(Configuration.GetConnectionString("MovieContext")));
         }
 
