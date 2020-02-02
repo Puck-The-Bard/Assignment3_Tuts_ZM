@@ -8466,11 +8466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\zmcgu\\Documents\\2020_ClassesWT_Sem1\\SoftwareDev\\Assignment3_Tutorials\\Tut1_FirstMVC\\RazorPageMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectUniqueName": "C:\\Users\\zmcgu\\Documents\\2020_ClassesWT_Sem1\\SoftwareDev\\Assignment3_Tutorials\\Tutorials_Assign3\\RazorPageMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "c:\\Users\\zmcgu\\Documents\\2020_ClassesWT_Sem1\\SoftwareDev\\Assignment3_Tutorials\\Tut1_FirstMVC\\RazorPageMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectPath": "C:\\Users\\zmcgu\\Documents\\2020_ClassesWT_Sem1\\SoftwareDev\\Assignment3_Tutorials\\Tutorials_Assign3\\RazorPageMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "packagesPath": "C:\\Users\\zmcgu\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\zmcgu\\Documents\\2020_ClassesWT_Sem1\\SoftwareDev\\Assignment3_Tutorials\\Tut1_FirstMVC\\RazorPageMovie\\RazorPagesMovie\\obj\\",
+      "outputPath": "C:\\Users\\zmcgu\\Documents\\2020_ClassesWT_Sem1\\SoftwareDev\\Assignment3_Tutorials\\Tutorials_Assign3\\RazorPageMovie\\RazorPagesMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
